@@ -58,5 +58,5 @@ Price: ~~$100~~ | New Price $49.99 ***Lifetime Special 50% Discount!***
 
 
 
-For those interested in obtaining the Stub, it is available for purchase. Please contact the developer directly via [Discord:https://discord.gg/keAZdHPbTb]() for further details.      
+For those interested in obtaining the Stub, it is available for purchase. Please contact the developer directly via [Discord| https://discord.gg/keAZdHPbTb]() for further details.      
 
