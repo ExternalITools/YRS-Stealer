@@ -1,7 +1,7 @@
 YRS Stealer  https://discord.gg/keAZdHPbTb
 
  **YRS Premium FUD Stealer**
---------------------------------------------------------------------
+
 [+] Run On Startup
 [+] Fake Error
 [+] EXE Binder
@@ -30,7 +30,7 @@ YRS Stealer  https://discord.gg/keAZdHPbTb
 [+] All Data Sent to Telegram Chat or Discord
 [+] 100% FUD | 0 Detections
 [+] More Coming Soon :)
-------------------------------------------------------------------------
+
 Price: ~~$100~~ | New Price $49.99 ***Lifetime Special 50% Discount!***
  
  
